@@ -1,7 +1,7 @@
 package com.equalexperts.fb;
 
 public class FizzBuzz {
-
+ 
   public static final int FIZZ_VALUE = 3;
   public static final int BUZZ_VALUE = 5;
   public static final int FIZZBUZZ_VALUE = 15;
